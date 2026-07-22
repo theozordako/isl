@@ -1,0 +1,94 @@
+= Iconic SciFi List (ISL)
+from Danny Danger
+
+:icons: font
+
+[TIP] 
+This list is a guide to Scifi Movies
+
+== Prologue
+
+Science-fiction films have shaped our modern history and continue to influence our time today. Many technical professions and scientific developments have been inspired by works of science fiction – whether in the form of books, films, or magazines. Fritz Lang's film "Metropolis" from 1927 is considered one of the cornerstones of cinematic history.
+
+== The Genre
+
+The term "science fiction" is derived from the words `science` (natural science) and `fiction` (invention or imagination). It therefore describes an imagined narrative based on scientific and technological concepts. In contrast to other genres, science fiction always contains a scientific or technological element.
+
+Related genres include dystopia, utopia and fantasy.
+
+== The List
+
+[NOTE]
+====
+.Danny Danger's personal rating
+
+★ One star is poor, ★★★★★ is maximum
+
+👑 **Iconic** – culturally significant and widely recognized
+
+🚀 **Genre Milestone** – influential films that shaped or advanced the genre
+
+💎 **Hidden Gem** – underrated or lesser-known films worth discovering
+====
+
+
+
+
+* 🚀 https://www.imdb.com/de/title/tt0017136[Metropolis] [1927] ★★★★
+* https://www.imdb.com/de/title/tt0047577[Metaluna IV antwortet nicht] [1955] ★★
+* 👑 https://www.imdb.com/de/title/tt0062622[2001: A Space Odyssey] [1968] ★★★★★
+* 💎 https://www.imdb.com/de/title/tt0064177[Colossus: The Forbin Project] [1970] ★★★★
+* https://www.imdb.com/de/title/tt0066434[THX 1138] [1971] ★★★★★
+* https://www.imdb.com/de/title/tt0070723[Soylent Green] [1973] ★★★
+* 💎 https://www.imdb.com/de/title/tt0069945[Dark Star] [1974] ★★★
+* 👑🚀 https://www.imdb.com/de/title/tt0076759[Star Wars Episode IV: A New Hope] [1977] ★★★★
+* https://www.imdb.com/de/title/tt0078748[Alien] [1979] ★★★★
+* https://www.imdb.com/de/title/tt0080684[Star Wars Episode V: The Empire Strikes Back] [1980] ★★★★
+* 👑🚀 https://www.imdb.com/de/title/tt0083658[Blade Runner] [1982] ★★★★★
+* https://www.imdb.com/de/title/tt0084726[Star Trek II: The Wrath of Khan] [1982] ★★★★★
+* 👑🚀 https://www.imdb.com/de/title/tt0084827[Tron] [1982] ★★★★★
+* https://www.imdb.com/de/title/tt0086567[WarGames: Kriegsspiele] [1983] ★★★★
+* https://www.imdb.com/de/title/tt0086190[Star Wars Episode VI: Return of the Jedi] [1983] ★★★★
+* 👑 https://www.imdb.com/de/title/tt0088247[Terminator I] [1984] ★★★★★
+* https://www.imdb.com/de/title/tt0087910[The Philadelphia Experiment] [1984] ★★★
+* 💎 https://www.imdb.com/de/title/tt0089869[The Quiet Earth] [1985] ★★
+* 👑🚀 https://www.imdb.com/de/title/tt0088763[Back to the Future] [1985] ★★★★★
+* 💎 https://www.imdb.com/de/title/tt0091059[Flight of the Navigator] [1986] ★★★★★
+* https://www.imdb.com/de/title/tt0093870[RoboCop] [1987] ★★★★
+* 💎 https://www.imdb.com/de/title/tt0094012[Spaceballs] [1987] ★★★★
+* https://www.imdb.com/de/title/tt0096874[Back to the Future Part II] [1989] ★★★★
+* https://www.imdb.com/de/title/tt0099088[Back to the Future Part III] [1990] ★★★★
+* https://www.imdb.com/de/title/tt0100802[Total Recall] [1990] ★★★
+* https://www.imdb.com/de/title/tt0103064[Terminator II – Tag der Abrechnung] [1991] ★★★★
+* 💎 https://www.imdb.com/de/title/tt0106697[Demolition Man] [1993] ★★★★
+* 👑🚀 https://www.imdb.com/de/title/tt0107290[Jurassic Park] [1993] ★★★★★
+* https://www.imdb.com/de/title/tt0114746[12 Monkeys] [1995] ★★★
+* https://www.imdb.com/de/title/tt0113492[Judge Dredd] [1995] ★★★
+* https://www.imdb.com/de/title/tt0113243[Hackers] [1995] ★★
+* https://www.imdb.com/de/title/tt0116629[Independence Day] [1996] ★★★★
+* 👑 https://www.imdb.com/de/title/tt0117731[Star Trek: First Contact] [1996] ★★★★★
+* 💎 https://www.imdb.com/de/title/tt0119177[Gattaca] [1997] ★★★★★
+* https://www.imdb.com/de/title/tt0118884[Contact] [1997] ★★★★
+* 💎 https://www.imdb.com/de/title/tt0123755[Cube] [1997] ★★★
+* 👑 https://www.imdb.com/de/title/tt0119116[The Fifth Element] [1997] ★★★★
+* https://www.imdb.com/de/title/tt0120201[Starship Troopers] [1997] ★★★★★
+* https://www.imdb.com/de/title/tt0119654[Men in Black] [1997] ★★★★★
+* 👑🚀 https://www.imdb.com/de/title/tt0133093[The Matrix] [1999] ★★★★★
+* https://www.imdb.com/de/title/tt0120907[eXistenZ] [1999] ★★★
+* https://www.imdb.com/de/title/tt0182789[Bicentennial Man] [1999] ★★★★
+* https://www.imdb.com/de/title/tt0212720[A.I. Artificial Intelligence] [2001] ★★★
+* 💎 https://www.imdb.com/de/title/tt0238380[Equilibrium] [2002] ★★★★
+* 🚀 https://www.imdb.com/de/title/tt0181689[Minority Report] [2002] ★★★★
+* https://www.imdb.com/de/title/tt0181852[Terminator III – Rebellion der Maschinen] [2003] ★★★★
+* https://www.imdb.com/de/title/tt0399201[The Island] [2005] ★★★
+* https://www.imdb.com/de/title/tt0448134[Sunshine] [2007] ★★★
+* 💎 https://www.imdb.com/de/title/tt1182345[Moon] [2009] ★★★★
+* 💎 https://www.imdb.com/de/title/tt1136608[District 9] [2009] ★★★★★
+* 🚀 https://www.imdb.com/de/title/tt0499549[Avatar] [2009] ★★★★
+* https://www.imdb.com/de/title/tt1375666[Inception] [2010] ★★★
+* https://www.imdb.com/de/title/tt1104001[Tron: Legacy] [2010] ★★★★
+* https://www.imdb.com/de/title/tt1392170[The Hunger Games] [2012] ★★★★★
+* https://www.imdb.com/de/title/tt1517260[The Host] [2013] ★★★★
+* https://www.imdb.com/de/title/tt2543164[Arrival] [2016] ★★★
+* 👑 https://www.imdb.com/de/title/tt1856101[Blade Runner 2049] [2017] ★★★★★
+
