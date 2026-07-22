@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://theozordako.github.io/isl/)
 
-# 🚀 Iconic SciFi List (ISL)
+# 👑 Iconic SciFi List (ISL)
 
 A chronological journey through the history of science fiction movies — from Fritz Lang's **Metropolis (1927)** to modern masterpieces like **Arrival** and **Blade Runner 2049**.
 
